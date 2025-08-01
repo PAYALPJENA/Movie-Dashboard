@@ -1,0 +1,19 @@
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
+[theme]
+base = "dark"
+primaryColor = "#e50914"  # Netflix red
+backgroundColor = "#141414"
+secondaryBackgroundColor = "#1f1f1f"
+textColor = "#ffffff"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+showSidebarNavigation = true
+toolbarMode = "minimal"
