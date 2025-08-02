@@ -85,7 +85,7 @@ This project uses the [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/
 ## 👩‍💻 Author
 
 **Payal Priyadarshini Jena**  
-[GitHub](https://github.com/PAYALPJENA) | [LinkedIn](https://www.linkedin.com/in/payal-priyadarshini-jena/)
+[GitHub](https://github.com/PAYALPJENA) | [LinkedIn](https://www.linkedin.com/in/payalpriyadarshinijena)
 
 
 
